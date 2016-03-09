@@ -4,6 +4,7 @@ public class Test {
 		//1111
 		//2222
 		//333
+		//444
 		String str="";
 		switch (str) {
 		case "11":
