@@ -7,8 +7,6 @@ public class Test {
 		case "11":
 			
 			break;
-			//123456
-			//987654
 
 
 
