@@ -2,7 +2,7 @@
 public class Test {
 	//88888889999
 	//local666
-	//remote222
+	//remote666
 	public static void main(String[] args) {
 		String str="";
 		switch (str) {
