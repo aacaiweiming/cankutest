@@ -1,8 +1,7 @@
 
 public class Test {
 	//88888889999
-	//local222
-	//remote222
+	//local666
 	public static void main(String[] args) {
 		String str="";
 		switch (str) {
@@ -16,13 +15,4 @@ public class Test {
 			break;
 		}
 	}
-
-	public static <T> T test(){
-//		T t=new T();
-
-
-
-		return null;
-	}
-
 }
